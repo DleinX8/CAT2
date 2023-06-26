@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FuFuuRecipies</string>
+    <string name="duration">Duration</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="Description">Description</string>
+    <string name="steps">Steps</string>
+</resources>
