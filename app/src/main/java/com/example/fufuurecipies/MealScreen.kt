@@ -71,6 +71,9 @@ private fun ProfileContent(meal: Meal,containerHeight: Dp){
     Column() {
         Name(meal = meal)
         ProfileProperty(label = stringResource(id =R.string.Description ), value = meal.description)
+        ProfileProperty(label = stringResource(id =R.string.mealtype ), value = meal.mealtype)
+        ProfileProperty(label = stringResource(id =R.string.difficulty ), value = meal.difficulty)
+        ProfileProperty(label = stringResource(id =R.string.servings), value = meal.servings)
         ProfileProperty(label = stringResource(id =R.string.duration ), value = meal.duration)
         ProfileProperty(label = stringResource(id = R.string.ingredients), value = meal.Ingredients.toString())
         ProfileProperty(label = stringResource(id = R.string.steps), value = meal.Steps )

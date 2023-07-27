@@ -7,6 +7,9 @@ object Provider {
         Meal(
             id = 1,
             name = "Mayai Mwitu",
+            mealtype = "Breakfast",
+            servings = "1",
+            difficulty = "Easy",
             description ="Deviled Eggs(Facelifted Eggs) With Uber-Kenyan Kachumbari ",
             duration = "1 Hour",
             Ingredients ="2 Matoke" +
@@ -24,6 +27,9 @@ object Provider {
         Meal(
             id = 1,
             name = "Mayai Mwitu",
+            mealtype = "Breakfast",
+            servings = "1",
+            difficulty = "Intermediate",
             description ="Deviled Eggs(Facelifted Eggs) With Uber-Kenyan Kachumbari ",
             duration = "1 Hour",
             Ingredients ="2 Matoke" +
@@ -40,6 +46,9 @@ object Provider {
         Meal(
             id = 2,
             name = "Ugali Choma",
+            mealtype = "Lunch",
+            servings = "3",
+            difficulty = "Easy",
             description ="Deviled Eggs With Uber-Kenyan Kachumbari",
             duration = "pikavizuri",
             Ingredients ="this and that",
@@ -49,6 +58,9 @@ object Provider {
         Meal(
             id = 3,
             name = "Wet Chicken",
+            mealtype = "Dinner",
+            servings = "4",
+            difficulty = "Intermediate",
             description ="Deviled Eggs With Uber-Kenyan Kachumbari",
             duration = "pikavizuri",
             Ingredients ="this and that",
@@ -58,6 +70,9 @@ object Provider {
         Meal(
             id = 4,
             name = "Pilau",
+            mealtype = "Dinner",
+            servings = "4",
+            difficulty = "Hard",
             description ="Deviled Eggs With Uber-Kenyan Kachumbari ",
             duration = "pikavizuri",
             Ingredients ="this and that",
@@ -67,6 +82,9 @@ object Provider {
         Meal(
             id = 5,
             name = "Meatballs",
+            mealtype = "Lunch",
+            servings = "6",
+            difficulty = "Intermediate",
             description ="Deviled Eggs With Uber-Kenyan Kachumbari",
             duration = "pikavizuri",
             Ingredients ="this and that",

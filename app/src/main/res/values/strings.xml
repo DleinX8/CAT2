@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">FuFuuRecipies</string>
+    <string name="mealtype">mealtype</string>
+    <string name="servings">servings</string>
+    <string name="difficulty">difficulty</string>
     <string name="duration">Duration</string>
     <string name="ingredients">Ingredients</string>
     <string name="Description">Description</string>
